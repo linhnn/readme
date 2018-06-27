@@ -66,9 +66,11 @@ Send uuid in request header
 
 Response body:
 
+```
 {
     "message": "Log out suceess!"
 }
+```
 
 ### GET /api/search
 
